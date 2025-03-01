@@ -32,5 +32,5 @@
 
 ### 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/ThousandX-Strikes.git
+git clone https://github.com/iamharshit13/ThousandX-Strikes.git
 cd ThousandX-Strikes
