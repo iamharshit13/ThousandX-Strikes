@@ -1,7 +1,7 @@
 # ⚡ ThousandX Strikes 🚀  
 **Track your mastery, one strike at a time!**  
 
-![ThousandX Strikes](https://your-logo-url.com/logo.png)  
+![ThousandX Strikes](ThousandX-strikes.webp)  
 
 ## 📖 About the Project  
 **ThousandX Strikes** is a productivity and skill-tracking web app designed to help users achieve mastery by completing **1,000 repetitions** of any task, skill, or exercise.  
